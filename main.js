@@ -11,3 +11,7 @@ else if (primerNum < segundoNum)
 {
   document.write(segundoNum + " es mayor");
 }
+else
+{
+  document.write("Parece que has cometido un error al ingresar los numeros");
+}
